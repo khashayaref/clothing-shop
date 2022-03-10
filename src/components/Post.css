@@ -1,0 +1,25 @@
+
+.post {
+  margin: 10px 0;
+}
+
+.post .col{
+    padding: 10px;
+}
+
+.post p{
+    text-align: justify;
+    direction: rtl;
+}
+.post img {
+    border-radius: 10px;
+}
+
+.post .descrption a{
+    position: absolute;
+    bottom: 20px;
+    left: 50px;
+    cursor: pointer;
+    color: #00AFEF;
+    text-decoration: none;
+}

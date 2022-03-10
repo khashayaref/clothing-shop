@@ -1,0 +1,11 @@
+
+:root{
+    --titleColor : #E8288C
+}
+
+.titles {
+    color: var(--titleColor);
+    margin-top: 60px;
+    margin-bottom: 20px;
+    text-align: right;
+}

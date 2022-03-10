@@ -1,0 +1,17 @@
+
+:root{
+    --mypurple : #FBD7D6
+}
+
+.categories {
+    border-radius: 10px;
+    border: 4px solid var(--mypurple);
+    height: 100px;
+    cursor: pointer;
+}
+
+.categories img{
+    padding-top: 9px;
+    display: block;
+    margin: 0 auto;
+}
