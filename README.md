@@ -1,8 +1,8 @@
 # React e-Commerce Test Project
 
 ## How To Run
-clone the project
-Install `node js`
+clone the project  
+Install `node js`  
 Then:
 ```
 cd clothing-shop
